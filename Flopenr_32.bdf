@@ -102,7 +102,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 24 576 152)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst" (rect 8 107 24 124)(font "Intel Clear" ))
+	(text "bit31" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -143,9 +143,9 @@ refer to the applicable agreement for further details.
 	)
 )
 (symbol
-	(rect 480 128 576 256)
+	(rect 480 120 576 248)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst2" (rect 8 107 30 124)(font "Intel Clear" ))
+	(text "bit30" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -188,7 +188,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 232 576 360)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst3" (rect 8 107 30 124)(font "Intel Clear" ))
+	(text "bit29" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -231,7 +231,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 336 576 464)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst4" (rect 8 107 30 124)(font "Intel Clear" ))
+	(text "bit28" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -274,7 +274,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 440 576 568)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst5" (rect 8 107 30 124)(font "Intel Clear" ))
+	(text "bit27" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -317,7 +317,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 544 576 672)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst6" (rect 8 107 30 124)(font "Intel Clear" ))
+	(text "bit26" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -360,7 +360,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 648 576 776)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst7" (rect 8 107 30 124)(font "Intel Clear" ))
+	(text "bit25" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -403,7 +403,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 752 576 880)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst8" (rect 8 107 30 124)(font "Intel Clear" ))
+	(text "bit24" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -446,7 +446,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 856 576 984)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst9" (rect 8 107 30 124)(font "Intel Clear" ))
+	(text "bit23" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -489,7 +489,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 960 576 1088)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst10" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit22" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -532,7 +532,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1064 576 1192)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst11" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit21" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -575,7 +575,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1168 576 1296)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst12" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit20" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -618,7 +618,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1272 576 1400)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst13" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit19" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -661,7 +661,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1376 576 1504)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst14" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit18" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -704,7 +704,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1480 576 1608)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst15" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit17" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -747,7 +747,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1584 576 1712)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst16" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit16" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -790,7 +790,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1688 576 1816)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst17" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit15" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -833,7 +833,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1792 576 1920)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst18" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit14" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -876,7 +876,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 1896 576 2024)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst19" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit13" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -919,7 +919,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2000 576 2128)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst20" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit12" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -962,7 +962,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2104 576 2232)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst21" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit11" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1005,7 +1005,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2208 576 2336)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst22" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit10" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1048,7 +1048,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2312 576 2440)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst23" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit09" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1091,7 +1091,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2416 576 2544)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst24" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit08" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1134,7 +1134,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2520 576 2648)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst25" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit07" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1177,7 +1177,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2624 576 2752)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst26" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit06" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1220,7 +1220,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2728 576 2856)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst27" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit05" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1263,7 +1263,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2832 576 2960)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst28" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit04" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1306,7 +1306,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 2936 576 3064)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst29" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit03" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1349,7 +1349,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 3040 576 3168)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst30" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit02" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1392,7 +1392,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 3144 576 3272)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst31" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit01" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1435,7 +1435,7 @@ refer to the applicable agreement for further details.
 (symbol
 	(rect 480 3248 576 3376)
 	(text "Flopenr" (rect 5 0 49 19)(font "Intel Clear" (font_size 8)))
-	(text "inst32" (rect 8 107 36 124)(font "Intel Clear" ))
+	(text "bit00" (rect 8 107 31 124)(font "Intel Clear" ))
 	(port
 		(pt 0 32)
 		(input)
@@ -1776,23 +1776,8 @@ refer to the applicable agreement for further details.
 	(pt 480 296)
 )
 (connector
-	(pt 248 192)
-	(pt 248 296)
-	(bus)
-)
-(connector
-	(text "D[30]" (rect 256 176 283 188)(font "Arial" ))
-	(pt 248 192)
-	(pt 480 192)
-)
-(connector
 	(pt 248 64)
 	(pt 248 88)
-	(bus)
-)
-(connector
-	(pt 248 88)
-	(pt 248 192)
 	(bus)
 )
 (connector
@@ -2094,21 +2079,6 @@ refer to the applicable agreement for further details.
 	(text "Q[29]" (rect 608 248 635 260)(font "Arial" ))
 	(pt 576 264)
 	(pt 680 264)
-)
-(connector
-	(pt 680 56)
-	(pt 680 160)
-	(bus)
-)
-(connector
-	(pt 680 160)
-	(pt 680 264)
-	(bus)
-)
-(connector
-	(text "Q[30]" (rect 608 144 635 156)(font "Arial" ))
-	(pt 576 160)
-	(pt 680 160)
 )
 (connector
 	(text "Q[31]" (rect 608 40 635 52)(font "Arial" ))
@@ -2596,22 +2566,6 @@ refer to the applicable agreement for further details.
 	(pt 408 368)
 )
 (connector
-	(pt 480 176)
-	(pt 376 176)
-)
-(connector
-	(pt 376 176)
-	(pt 376 280)
-)
-(connector
-	(pt 480 160)
-	(pt 408 160)
-)
-(connector
-	(pt 408 160)
-	(pt 408 264)
-)
-(connector
 	(pt 480 72)
 	(pt 376 72)
 )
@@ -2620,20 +2574,12 @@ refer to the applicable agreement for further details.
 	(pt 376 72)
 )
 (connector
-	(pt 376 72)
-	(pt 376 176)
-)
-(connector
 	(pt 480 56)
 	(pt 408 56)
 )
 (connector
 	(pt 408 8)
 	(pt 408 56)
-)
-(connector
-	(pt 408 56)
-	(pt 408 160)
 )
 (connector
 	(pt 216 3328)
@@ -2860,18 +2806,6 @@ refer to the applicable agreement for further details.
 	(pt 216 416)
 )
 (connector
-	(pt 480 208)
-	(pt 216 208)
-)
-(connector
-	(pt 216 104)
-	(pt 216 208)
-)
-(connector
-	(pt 216 208)
-	(pt 216 312)
-)
-(connector
 	(pt 208 104)
 	(pt 216 104)
 )
@@ -2890,6 +2824,72 @@ refer to the applicable agreement for further details.
 (connector
 	(pt 216 1976)
 	(pt 216 2080)
+)
+(connector
+	(text "Q[30]" (rect 608 136 635 148)(font "Arial" ))
+	(pt 680 152)
+	(pt 576 152)
+)
+(connector
+	(pt 408 152)
+	(pt 480 152)
+)
+(connector
+	(pt 376 168)
+	(pt 480 168)
+)
+(connector
+	(text "D[30]" (rect 256 168 283 180)(font "Arial" ))
+	(pt 248 184)
+	(pt 480 184)
+)
+(connector
+	(pt 216 200)
+	(pt 480 200)
+)
+(connector
+	(pt 680 56)
+	(pt 680 152)
+	(bus)
+)
+(connector
+	(pt 680 152)
+	(pt 680 264)
+	(bus)
+)
+(connector
+	(pt 408 56)
+	(pt 408 152)
+)
+(connector
+	(pt 408 152)
+	(pt 408 264)
+)
+(connector
+	(pt 376 72)
+	(pt 376 168)
+)
+(connector
+	(pt 376 168)
+	(pt 376 280)
+)
+(connector
+	(pt 248 88)
+	(pt 248 184)
+	(bus)
+)
+(connector
+	(pt 248 184)
+	(pt 248 296)
+	(bus)
+)
+(connector
+	(pt 216 104)
+	(pt 216 200)
+)
+(connector
+	(pt 216 200)
+	(pt 216 312)
 )
 (junction (pt 248 3208))
 (junction (pt 248 3104))
@@ -2920,7 +2920,6 @@ refer to the applicable agreement for further details.
 (junction (pt 248 504))
 (junction (pt 248 400))
 (junction (pt 248 296))
-(junction (pt 248 192))
 (junction (pt 248 88))
 (junction (pt 680 3280))
 (junction (pt 680 3176))
@@ -2951,7 +2950,6 @@ refer to the applicable agreement for further details.
 (junction (pt 680 472))
 (junction (pt 680 368))
 (junction (pt 680 264))
-(junction (pt 680 160))
 (junction (pt 376 3192))
 (junction (pt 408 3176))
 (junction (pt 376 3088))
@@ -3010,8 +3008,6 @@ refer to the applicable agreement for further details.
 (junction (pt 408 368))
 (junction (pt 376 280))
 (junction (pt 408 264))
-(junction (pt 376 176))
-(junction (pt 408 160))
 (junction (pt 376 72))
 (junction (pt 408 56))
 (junction (pt 216 3224))
@@ -3042,6 +3038,10 @@ refer to the applicable agreement for further details.
 (junction (pt 216 520))
 (junction (pt 216 416))
 (junction (pt 216 312))
-(junction (pt 216 208))
 (junction (pt 216 104))
 (junction (pt 216 1976))
+(junction (pt 680 152))
+(junction (pt 408 152))
+(junction (pt 376 168))
+(junction (pt 248 184))
+(junction (pt 216 200))
